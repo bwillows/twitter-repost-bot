@@ -1,2 +1,2 @@
 # twitter-repost-bot
-simple twitter bot that allows scheduling retweets
+simple twitter bot for scheduling retweets
